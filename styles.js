@@ -21,6 +21,7 @@ export const styles = StyleSheet.create({
     header_text:{
         fontSize: 22
     },
+	header_btn:{},
     sidebar: { 
         flex: 1, 
         width: 300, 
